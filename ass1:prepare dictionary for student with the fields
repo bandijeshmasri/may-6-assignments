@@ -1,0 +1,6 @@
+s={1:['abhi','female','bsc',9],2:['siri','female','b.com',10],3:['raj','male','b.a',8],4:['rao','male','bsc',8]}
+x=int(input('enter sno:'))
+print('student name:',s[x][0])
+print('student gender:',s[x][1])
+print('student group:',s[x][2])
+print('student result:',s[x][3])
